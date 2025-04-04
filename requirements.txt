@@ -1,5 +1,14 @@
 Flask
-gunicorn
+numpy
 pandas
 scikit-learn
-joblib
+matplotlib
+seaborn
+imblearn
+bs4
+requests
+googlesearch-python
+python-whois
+python-dateutil
+urllib3
+gunicorn
